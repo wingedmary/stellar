@@ -1,0 +1,73 @@
+{
+    "products" : [
+        {
+            "cover" : "defaultCover",
+            "title" : "Новый Товар 1",
+            "id" : 1,
+            "description" : "Описание товара 1",
+            "price" : "199",
+            "avaible" : true,
+            "link" : "/product"
+        },
+        
+        {
+            "cover" : "defaultCover",
+            "title" : "Новый Товар 2",
+            "id" : 2,
+            "description" : "Описание товара 2",
+            "price" : "199",
+            "avaible" : true,
+            "link" : "/product"
+        },
+        
+        {
+            "cover" : "defaultCover",
+            "title" : "Новый Товар 3",
+            "id" : 3,
+            "description" : "Описание товара 3",
+            "price" : "199",
+            "avaible" : true,
+            "link" : "/product"
+        },
+        
+        {
+            "cover" : "defaultCover",
+            "title" : "Новый Товар 4",
+            "id" : 4,
+            "description" : "Описание товара 4",
+            "price" : "199",
+            "avaible" : true,
+            "link" : "/product"
+        },
+        
+        {
+            "cover" : "defaultCover",
+            "title" : "Новый Товар 5",
+            "id" : 5,
+            "description" : "Описание товара 5",
+            "price" : "199",
+            "avaible" : true,
+            "link" : "/product"
+        },
+        
+        {
+            "cover" : "defaultCover",
+            "title" : "Новый Товар 6",
+            "id" : 6,
+            "description" : "Описание товара 6",
+            "price" : "199",
+            "avaible" : true,
+            "link" : "/product"
+        },
+        
+        {
+            "cover" : "defaultCover",
+            "title" : " НовыйТовар 7",
+            "id" : 7,
+            "description" : "Описание товара 7",
+            "price" : "199",
+            "avaible" : true,
+            "link" : "/product"
+        }
+    ]
+}
